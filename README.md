@@ -21,6 +21,8 @@ I believe I now know what has to be done first thanks to a great read about hard
 
 Now I will be back on getting some tractions, real traction by getting people feedback.
 
+*long term objective:* Getting some initial 'customer'
+*short term objective:* finish the prototype
 
 
 
