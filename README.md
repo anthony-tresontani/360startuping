@@ -21,8 +21,22 @@ I believe I now know what has to be done first thanks to a great read about hard
 
 Now I will be back on getting some tractions, real traction by getting people feedback.
 
-*long term objective:* Getting some initial 'customer'
-*short term objective:* finish the prototype
+*focus*: prototype
+
+Day 1 - 29/12/2014
+------------------
+
+I had a look at our statistics and change the way to manage them. They are now weekly instead of daily and the main focus is on the number of people registering to the Relink newsletter. I also noticed the traffic didn't change much in volume but we got some referral from some low end website which give us near to zero conversion rate.
+
+I spend most of my day buy new stuffs and setting them up and trying them. I now have a scroll saw to make new prototypes. While this might be seen a step back compared to laser cutting, it gives some new perspectives. Angle cut, faster iterations, etc.
+
+I wrote a questionnaire few days ago and I have been reviewed the result today. Everyone (13 people) love it but in reality, most people don't read it (opening rate around 25%, read rate 8%). I still don't know if we would keep that much longer.
+
+The development is going well. The remote control mechanism is partially working (no security) thanks to the great work done by Trajche.
+
+My focus stay on the prototype for now as I believe it would allow to show many people and get some interesting feedback when we would have something interesting.
+
+
 
 
 
