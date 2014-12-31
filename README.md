@@ -37,6 +37,13 @@ The development is going well. The remote control mechanism is partially working
 My focus stay on the prototype for now as I believe it would allow to show many people and get some interesting feedback when we would have something interesting.
 
 
+Day 2 - 30/12/2014
+------------------
+
+The morning has been spent working on the wood prototype. I got a bit better with the scroll saw and manage, with the help of some sanding, to do something not bad. I decided to try to also work on a plastic prototype. The wood prototype would help to do the mold and it will be casted with a black resin. The other part of the day has been focused on getting everything required for the casting, to try my new magnets and to add some polish to my half completed prototype.
+
+Nothing ground breaking. The day has been quite short as tomorrow is new year eve.
+
 
 
 
